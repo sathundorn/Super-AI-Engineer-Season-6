@@ -56,4 +56,4 @@ This hackathon consists of three distinct classification and prediction tasks:
    - **Task:** Signal processing and classification to determine different sleep stages from physiological signals.
 
 ---
-**Author:** Sathundorn Sai-ut (Super AI Engineer Season 6 Participant)
+**Author:** Sathundorn Saiaut (Super AI Engineer Season 6 Participant)
